@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react_todo/static/css/main.c79ed085.css",
+    "main.js": "/react_todo/static/js/main.3d449a78.js",
+    "static/media/bg.jpg": "/react_todo/static/media/bg.c1b68d8dc94142114dbd.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react_todo/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react_todo/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react_todo/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react_todo/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react_todo/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/HECTURESRegular.eot": "/react_todo/static/media/HECTURESRegular.762a8edfb3e6a51a7e16.eot",
+    "static/media/HECTURESRegular.ttf": "/react_todo/static/media/HECTURESRegular.82d04800a3574bce7d9b.ttf",
+    "static/media/GreatRegular.eot": "/react_todo/static/media/GreatRegular.8cf0d35e2600503ac5bb.eot",
+    "static/media/GreatRegular.ttf": "/react_todo/static/media/GreatRegular.2d742d36ca68e9e38dc8.ttf",
+    "static/media/HECTURESRegular.woff": "/react_todo/static/media/HECTURESRegular.5297578de8b5b9f633c2.woff",
+    "static/media/GreatRegular.woff": "/react_todo/static/media/GreatRegular.8698421902c6d21bbe2a.woff",
+    "static/media/HECTURESRegular.woff2": "/react_todo/static/media/HECTURESRegular.d12ff9814f7d2dcbf91f.woff2",
+    "static/media/GreatRegular.woff2": "/react_todo/static/media/GreatRegular.e9f76c6e626076beca40.woff2",
+    "index.html": "/react_todo/index.html",
+    "main.c79ed085.css.map": "/react_todo/static/css/main.c79ed085.css.map",
+    "main.3d449a78.js.map": "/react_todo/static/js/main.3d449a78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79ed085.css",
+    "static/js/main.3d449a78.js"
+  ]
+}
